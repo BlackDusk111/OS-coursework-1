@@ -1,6 +1,6 @@
 # OS-coursework-1
 # ATM Monitoring and Alert System
-# ATM OS Lab Codes
+# ATM OS  Codes
 
 This repo has my Operating System code for Linux and Windows.  
 It includes scheduling algorithm demos, ATM synchronization, and IPC between ATM transaction and monitor processes.
