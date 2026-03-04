@@ -24,7 +24,6 @@ It includes scheduling algorithm demos, ATM synchronization, and IPC between ATM
   - `winps.c`
   - `winrr.c`
   - `winsjf.c`
-  - `test`
 
 ## What is included
 
